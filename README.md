@@ -4,9 +4,10 @@
 
 <p align="left">My name is  Soheil Lotfi. I'm currently a Master's student at IP Paris, studying HCI in the IGD master's program<br><br>I'm interested in innovating and researching about new interaction techniques. Additionally, I'm trying to start HCI research and development in Mixed Reality settings.<br><br>Thanks for visiting my profile. Feel free to contact me through my Linkedin account.<br><br>Cheers!</p>
 
-###
+<h2 align="left">Skills & languages</h2>
 
-<div align="center">
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soheil1lotfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
